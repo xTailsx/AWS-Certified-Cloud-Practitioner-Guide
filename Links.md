@@ -1,3 +1,4 @@
+Official Amazon AWS Certification Information
 https://aws.amazon.com/certification/certified-cloud-practitioner/ 
 
 Access to 23 practice exams with 50 questions
@@ -12,5 +13,5 @@ https://www.youtube.com/watch?v=SOTamWNgDKc
 Practice exam - pay $25USD
 https://www.exampro.co/clf-c02 - 
 
-AWS Information Documents
+AWS WhitePapers
 https://docs.aws.amazon.com/ 
