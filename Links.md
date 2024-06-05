@@ -6,6 +6,7 @@ https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/maste
 AWS Free Practice Exam 20 questions
 https://explore.skillbuilder.aws/learn/course/external/view/elearning/18115/exam-prep-official-pre-test-aws-certified-cloud-practitioner-clf-c02 - 
 
+Comprehensive Video detailing all topics - 13 hours 30 minutes 
 https://www.youtube.com/watch?v=SOTamWNgDKc 
 
 Practice exam - pay $25USD
