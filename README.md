@@ -1,1 +1,1 @@
-Compiling information to pass the AWS Certified Cloud Practioner 2024
+Compiling information to pass the AWS Certified Cloud Practitioner 2024
