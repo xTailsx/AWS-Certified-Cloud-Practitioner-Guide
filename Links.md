@@ -16,5 +16,5 @@ https://www.exampro.co/clf-c02 -
 AWS WhitePapers
 https://docs.aws.amazon.com/ 
 
-Simplified Guide to the AWS Services
+Simplified Guide to AWS Services
 https://www.youtube.com/watch?v=Z3SYDTMP3ME
