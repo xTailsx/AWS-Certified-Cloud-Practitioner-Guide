@@ -1,6 +1,9 @@
 Official Amazon AWS Certification Information
 https://aws.amazon.com/certification/certified-cloud-practitioner/ 
 
+Overview Guide to AWS Services
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/ 
+
 Access to 23 practice exams with 50 questions
 https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md - 
 
